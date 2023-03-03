@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GitHub User </title>
+  <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/mainpage.css') }}">
+</head>
+<body>
+  <div className="card">
+    <a href={{ user['html_url'] }} target="_blank">
+      <img className="card_avatar" src={{ user['avatar_url'] }} />             
+    </a>
+    <h2 className="card_username">
+      <a className="card_link" href={{ user['html_url'] }} target="_blank">{{ user['login'] }}</a></h2>
+    <dl>
+      <dt>Real name</dt>
+      <dd>{{ user['name'] }}</dd>
+
+      <dt>Bio</dt>
+      <dd>{{ user['bio'] }}</dd>
+
+      <dt>Location</dt>
+      <dd>{{ user['location'] }}</dd>
+
+      <dt>Number of public repos</dt>
+      <dd>{{ user['public_repos'] }}</dd>
+
+      <dt>Number of followers</dt>
+      <dd>{{ user['followers'] }}</dd>
+      
+      <dt><a href="https://twitter.com/{{ user['twitter_username'] }}"</dt>
+    </dl>
+  </div>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GitHub User Viewer</title>
+  <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/mainpage.css') }}">
+</head>
+<body>
+<form className="searchbox" method="post" action="/search">
+  <input type="text" name="username">
+  <button searchbox__button type="submit">Search GitHub User</button>
+</form>
+</body>
+</html>
