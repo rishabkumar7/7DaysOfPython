@@ -1,0 +1,32 @@
+site_name: 7 Days of Python
+
+theme:
+  icon:
+    logo: simple/python
+
+  name: material
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+# Repository
+repo_name: rishabkumar7/7DaysOfPython
+repo_url: https://github.com/rishabkumar7/7DaysOfPython
