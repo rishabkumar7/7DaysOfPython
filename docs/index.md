@@ -18,4 +18,3 @@
 | Day 6   | [Automation with Python](days/day6.md)        |
 | Day 7   | [Let's build an App in Python](days/day7.md)        |
 
-## Project layout
