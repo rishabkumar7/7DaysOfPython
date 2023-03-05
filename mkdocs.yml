@@ -5,6 +5,8 @@ theme:
     logo: simple/python
 
   name: material
+  features:
+    - header.autohide
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -16,7 +18,7 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default 
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-sunny
         name: Switch to dark mode
 
     # Palette toggle for dark mode
@@ -24,9 +26,13 @@ theme:
       scheme: slate
       primary: deep purple
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-night
         name: Switch to system preference
 
 # Repository
 repo_name: rishabkumar7/7DaysOfPython
 repo_url: https://github.com/rishabkumar7/7DaysOfPython
+
+font:
+    text: Roboto
+    code: Roboto Mono
