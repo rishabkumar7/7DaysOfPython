@@ -4,6 +4,8 @@ theme:
   icon:
     logo: simple/python
 
+  favicon: images/python.ico
+
   name: material
   features:
     - header.autohide
