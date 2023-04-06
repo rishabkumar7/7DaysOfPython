@@ -13,13 +13,13 @@ Hey there, I'd like to start by saying that I created this repository as a resou
 
 | Days      | Topic |
 | ----------- | ----------- |
-| Day 1   | [Introduction to Python](days/day1.md)       |
-| Day 2   | [Python Loops, functions, modules and libraries](days/day2.md)        |
-| Day 3   | [Python Data Structures and OOP](days/day3.md)       |
-| Day 4   | [Debugging, testing and Regular expression](days/day4.md)        |
-| Day 5   | [Web development in Python](days/day5.md)       |
-| Day 6   | [Automation with Python](days/day6.md)        |
-| Day 7   | [Let's build an App in Python](days/day7.md)        |
+| Day 1   | [Introduction to Python](docs/days/day1.md)       |
+| Day 2   | [Python Loops, functions, modules and libraries](docs/days/day2.md)        |
+| Day 3   | [Python Data Structures and OOP](docs/days/day3.md)       |
+| Day 4   | [Debugging, testing and Regular expression](docs/days/day4.md)        |
+| Day 5   | [Web development in Python](docs/days/day5.md)       |
+| Day 6   | [Automation with Python](docs/days/day6.md)        |
+| Day 7   | [Let's build an App in Python](docs/days/day7.md)        |
 
 
 ## License
