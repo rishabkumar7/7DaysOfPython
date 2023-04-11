@@ -38,3 +38,8 @@ repo_url: https://github.com/rishabkumar7/7DaysOfPython
 font:
     text: Roboto
     code: Roboto Mono
+
+extra:
+  analytics:
+    provider: google
+    property: G-VB7ZE3N6CE
