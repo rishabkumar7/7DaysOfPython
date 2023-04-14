@@ -2,6 +2,7 @@
 <img src="docs/images/logo/7DaysOfPython-logos.jpeg" alt="90DaysOfDevOps Logo" width="30%" height="30%" />
 
 [![ci](https://github.com/rishabkumar7/7DaysOfPython/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/rishabkumar7/7DaysOfPython/actions/workflows/gh-pages.yml)
+[![CloudFlare Pages Build](https://img.shields.io/endpoint?url=https://cloudflare-pages-badges.rishabkumar7.workers.dev/?projectName=7daysofpython)](https://7daysofpython.com)
 [![Website](https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2F7daysofpython.com)](https://7daysofpython.com)
 [![GitHub Repo stars](https://img.shields.io/github/stars/rishabkumar7/7DaysOfPython?style=social)](https://github.com/rishabkumar7/7DaysOfPython/)
 
