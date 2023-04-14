@@ -25,3 +25,6 @@ Hey there, I'd like to start by saying that I created this repository as a resou
 ## License
 
 [MIT License](LICENSE)
+
+## Deployed on
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
