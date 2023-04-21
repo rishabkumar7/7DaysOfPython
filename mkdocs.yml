@@ -39,7 +39,15 @@ font:
     text: Roboto
     code: Roboto Mono
 
+copyright: Copyright &copy; 2023 Rishab Kumar
+
 extra:
   analytics:
     provider: google
     property: G-VB7ZE3N6CE
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/rishabk7
+      name: Rishab on Twitter
+    - icon: fontawesome/brands/github
+      link: https://github.com/rishabkumar7
