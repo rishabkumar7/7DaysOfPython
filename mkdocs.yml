@@ -9,6 +9,7 @@ theme:
   name: material
   features:
     - header.autohide
+    - navigation.footer
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
