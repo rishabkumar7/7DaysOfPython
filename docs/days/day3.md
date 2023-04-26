@@ -27,7 +27,7 @@ Tuples are similar to lists, but they are immutable, which means they cannot be 
 Tuples can be created with or without parentheses, but they are typically used to make the code more readable. Here's an example of a tuple and how to access its elements:
 
 ``` python
-my_tuple = (1, 2, [4, 5])
+my_tuple = (1, 2, "three", [4, 5])
 print(my_tuple[0])   # OUTPUT 1
 print(my_tuple[2])   # OUTPUT "three"
 print(my_tuple[3][0]) # OUTPUT 4
