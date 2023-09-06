@@ -74,7 +74,7 @@ class Person:
         self.name = name
         self.country = country
 person = Person("Rishab", "Canada")
-print(person.name)   # OUTPUT "Alice"
+print(person.name)   # OUTPUT "Rishab"
 print(person.country)    # OUTPUT "Canada"
 ```
 
