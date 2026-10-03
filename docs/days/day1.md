@@ -34,11 +34,11 @@ A variable is declared and assigned a value in Python by using the assignment op
 
 ``` python
 a = 7         # assign variable a the value 7
-b = x + 3     # assign variable b the value of a plus 3
+b = a + 3     # assign variable b the value of a plus 3
 c = b         # assign variable c the value of b
 ```
 
-These examples assign numbers to variables, but numbers are only one of the data types supported by Python. There is no type declaration for the variables. This is due to the fact that Python is a dynamically typed language, which means that the variable type is determined by the data assigned to it. The x, y, and z variables in the preceding examples are integer types, which can store both positive and negative whole numbers.
+These examples assign numbers to variables, but numbers are only one of the data types supported by Python. There is no type declaration for the variables. This is due to the fact that Python is a dynamically typed language, which means that the variable type is determined by the data assigned to it. The a, b, and c variables in the preceding examples are integer types, which can store both positive and negative whole numbers.
 
 Variable names are case sensitive and can contain any letter, number, or underscore ( ). They cannot, however, begin with a number.
 Also, with numbers, strings are among the most commonly used data types. A string is a sequence of one or more characters. Strings are typically declared with single quotation marks, but they can also be declared with double quotation marks:
